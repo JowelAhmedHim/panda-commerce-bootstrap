@@ -1,7 +1,7 @@
 # panda-commerce-bootstrap
 
 
-<h1 align="center">FootballClub<project-name></h1>
+<h1 align="center">PandaCommerce<project-name></h1>
 
 <p align="center">Football club Responsive Website Design<project-description></p>
 
